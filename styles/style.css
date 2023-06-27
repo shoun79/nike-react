@@ -1,0 +1,23 @@
+/* header  */
+header {
+    background-color: #FFF9F4;
+}
+
+.hero-title {
+    color: #FA804C;
+}
+
+.hero-title span {
+    color: #3E3E3E;
+}
+
+/* CASUAL   */
+.card-img {
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+
+.price {
+    color: #FA804C;
+
+}
